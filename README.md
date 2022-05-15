@@ -1,5 +1,5 @@
 # Application of generative models for prediction of drug molecular compounds
-После публикации научной статьи в ВАК и системе РИНЦ, будет опубликован основной код программы. 
-After the publication of the scientific article in the Higher Attestation Commission and the RSCI system, the main code of the program will be published.
+Текст публикации доступен по ссылке: https://top-technologies.ru/ru/article/view?id=39067
+The text of the publication is available at the link: https://top-technologies.ru/ru/article/view?id=39067
 
 
