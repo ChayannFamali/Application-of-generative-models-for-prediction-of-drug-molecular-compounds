@@ -1,2 +1,5 @@
 # Application of generative models for prediction of drug molecular compounds
- После публикации статьи в ВАК и системе РИНЦ, будет опубликован основной код программы. 
+Текст публикации доступен по ссылке: https://top-technologies.ru/ru/article/view?id=39067
+The text of the publication is available at the link: https://top-technologies.ru/ru/article/view?id=39067
+
+
